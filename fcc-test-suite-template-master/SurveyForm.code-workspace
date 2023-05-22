@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../SurveyForm"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fcc-test-suite-template-master"
+	}
+}
